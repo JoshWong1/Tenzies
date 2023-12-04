@@ -1,1 +1,1 @@
-Fully functioning tenzies application written using React.
+Tenzies application written with React.
